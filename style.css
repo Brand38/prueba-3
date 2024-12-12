@@ -18,7 +18,7 @@ body {
 
 .header {
     height: 100vh;
-    background-image: url(../../imagenes/harvest-8192037_1280.jpg);
+    background-image: url(harvest-8192037_1280.jpg);
     background-size: cover;
     display: flex;
 }
