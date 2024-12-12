@@ -20,6 +20,7 @@ body {
     height: 100vh;
     background-image: url(harvest-8192037_1280.jpg);
     background-size: cover;
+    background-position: center;
     display: flex;
 }
 
